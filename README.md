@@ -1,2 +1,6 @@
 # todos
-Simple todos application using fastapi python langauage
+
+<p>Simple todos application using fastapi python langauage</p>
+
+## Database Details
+    - SQLite3
